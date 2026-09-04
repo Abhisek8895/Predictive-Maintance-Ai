@@ -53,3 +53,4 @@ experiments/
 reports/generated/
 
 .streamlit/secrets.toml
+myvenv/
